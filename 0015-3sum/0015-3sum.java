@@ -17,8 +17,7 @@ class Solution {
                         int sum = nums[i]+nums[j]+nums[k];
                         if(sum == 0)
                         {
-                              List<Integer> list = new ArrayList<>(Arrays.asList(nums[i],nums[j],nums[k]));
-                              llist.add(list);
+                              llist.add(Arrays.asList(nums[i],nums[j],nums[k]));
                               
                               k--;
                         }
