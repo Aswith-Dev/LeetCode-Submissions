@@ -6,8 +6,9 @@ class Solution {
        int j = i+1;
        int k = nums.length-1;
 
-       while(i<k)
+       for(i = 0; i<k; i++)
        {
+          if(i>0 && nums[i] == nums[i-1]) continue;
             j = i+1;
             k = nums.length-1;
             while(j<k)
@@ -18,8 +19,10 @@ class Solution {
                         if(sum == 0)
                         {
                               llist.add(Arrays.asList(nums[i],nums[j],nums[k]));
-                              
+                              while(j<k && nums[j] == nums[j+1]) j++;
+                              while(j<k && nums[k] == nums[k-1]) k--;
                               k--;
+                              j++;
                         }
                         else if(sum<0)
                         {
@@ -29,13 +32,13 @@ class Solution {
                         {
                               k--;
                         }
+
                   }
             }
-            i++;
+            
        }
         
-         List<List<Integer>> ans = new ArrayList<>(new HashSet<>(llist));
        
-       return ans;  
+       return llist;  
     }
 }
