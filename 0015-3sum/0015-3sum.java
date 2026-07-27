@@ -19,6 +19,7 @@ class Solution {
                         {
                               List<Integer> list = new ArrayList<>(Arrays.asList(nums[i],nums[j],nums[k]));
                               llist.add(list);
+                              j++;
                               k--;
                         }
                         else if(sum<0)
