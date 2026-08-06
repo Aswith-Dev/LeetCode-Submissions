@@ -19,24 +19,7 @@ class Solution {
            windowAvg = (double)sum/k;   
            maxAvg = Math.max(windowAvg,maxAvg);       
         }
-        
-
-
-        /*
-         while(r < n)
-        {
-             sum = 0;
-            for(int j=l; j<=r; j++)
-            {
-              
-               sum += nums[j];
-               windowAvg = (double)sum/k;   
-            }
-           l++;
-           r++;
-           maxAvg = Math.max(windowAvg,maxAvg); 
-        }
-        */
+     
         return maxAvg;
 
     }
