@@ -5,10 +5,13 @@ class Solution {
         int n = nums.length;
         int sum = 0;
         int minLength = 0;
-        for(int i=l; i<=r; i++)
+        /*
+         for(int i=l; i<=r; i++)
         {
             sum += nums[i];
         }
+        */
+        sum = nums[0];
         while(r<n && l<n)
         {
             if(sum >= target)
