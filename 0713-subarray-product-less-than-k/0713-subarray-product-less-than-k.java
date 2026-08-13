@@ -5,7 +5,7 @@ class Solution {
           int n = nums.length;
           int count = 0;
           int product = 1;
-          if(k == 1) return 0;
+          if(k <= 1) return 0;
           for( r=0; r<n; r++)
           {
               product *= nums[r];
