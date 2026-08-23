@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0904-fruit-into-baskets](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1695-maximum-erasure-value](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1695-maximum-erasure-value) |
 ## Prefix Sum
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1695-maximum-erasure-value) |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
