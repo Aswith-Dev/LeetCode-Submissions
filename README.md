@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Counting
 |  |
