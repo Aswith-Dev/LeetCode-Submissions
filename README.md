@@ -147,4 +147,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1757-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
