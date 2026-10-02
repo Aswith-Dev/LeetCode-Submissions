@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1695-maximum-erasure-value) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Two Pointers
 |  |
@@ -175,12 +176,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
