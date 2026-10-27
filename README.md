@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0169-majority-element) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1695-maximum-erasure-value](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1695-maximum-erasure-value) |
@@ -105,12 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0647-palindromic-substrings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0904-fruit-into-baskets) |
