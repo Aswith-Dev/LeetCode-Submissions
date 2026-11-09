@@ -163,11 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/2073-time-needed-to-buy-tickets) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
