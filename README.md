@@ -163,12 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
