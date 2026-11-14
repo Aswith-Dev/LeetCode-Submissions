@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0013-roman-to-integer) |
+| [0032-longest-valid-parentheses](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0344-reverse-string) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
@@ -225,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0684-redundant-connection) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
