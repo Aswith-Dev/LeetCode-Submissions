@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0713-subarray-product-less-than-k) |
+| [0735-asteroid-collision](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0735-asteroid-collision](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aswith-Dev/LeetCode-Submissions/tree/master/2073-time-needed-to-buy-tickets) |
 ## DP on Trees
